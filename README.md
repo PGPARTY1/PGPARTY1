@@ -1,50 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=PGPARTY1&fontSize=56&fontColor=FFFFFE&animation=fadeIn&fontAlignY=35&desc=building%20small%20things%20with%20big%20energy&descAlignY=58&descSize=18" width="100%" alt="PGPARTY1 profile header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0F0C29,50:302B63,100:24243E&text=PGPARTY1&fontColor=F8F7FF&fontSize=68&animation=twinkling&stroke=7F5AF0&strokeWidth=2&desc=creative%20code%20%2F%20tiny%20tools%20%2F%20big%20curiosity&descAlignY=72&descSize=18" width="100%" alt="PGPARTY1 neon header" />
 
-<a href="https://github.com/PGPARTY1"><img src="https://img.shields.io/badge/GitHub-PGPARTY1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-
-### frontend experiments • useful tools • learning in public
-
-I like turning ideas into small, playful web projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=2CB67D&center=true&vCenter=true&width=750&lines=turning+ideas+into+interfaces;building+small+things+that+feel+alive;welcome+to+my+creative+lab" alt="Typing animation" />
 
 </div>
 
 ~~~text
-╭──────────────────────────────────────────────────────────────╮
-│  $ whoami                                                    │
-│  PGPARTY1                                                    │
-│                                                              │
-│  > build   > break   > learn   > ship                        │
-╰──────────────────────────────────────────────────────────────╯
+┌─[PGPARTY1@github]─[~/creative-lab]───────────────────────────┐
+│  status : ONLINE                                             │
+│  focus  : TypeScript / CSS / experiments                     │
+│  command: make something weird                               │
+└──────────────────────────────────────────────────────────────┘
 ~~~
 
-### ✦ Things I’m exploring
+<table>
+<tr>
+<td valign="top" width="56%">
 
-- TypeScript and frontend tooling
-- Clean interfaces with personality
-- Small projects that solve real problems
+## now.exe
 
-### ◌ A few places to wander
+- building small things with big curiosity
+- exploring TypeScript, CSS, and frontend tooling
+- collecting ideas that deserve to become real
 
-| project | stack |
-| --- | --- |
-| [meow90](https://github.com/PGPARTY1/meow90) | TypeScript |
-| [fb-1](https://github.com/PGPARTY1/fb-1) | TypeScript |
-| [download-auth](https://github.com/PGPARTY1/download-auth) | TypeScript |
-| [down-auth](https://github.com/PGPARTY1/down-auth) | CSS |
+</td>
+<td valign="top" width="44%">
+
+## toolkit
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,git,github&theme=dark" alt="TypeScript, JavaScript, HTML, CSS, Git, GitHub" />
+
+</td>
+</tr>
+</table>
+
+## selected builds
+
+<a href="https://github.com/PGPARTY1/meow90"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PGPARTY1&repo=meow90&theme=tokyonight&hide_border=true&bg_color=00000000" alt="meow90" /></a>
+<a href="https://github.com/PGPARTY1/fb-1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PGPARTY1&repo=fb-1&theme=tokyonight&hide_border=true&bg_color=00000000" alt="fb-1" /></a>
+<a href="https://github.com/PGPARTY1/download-auth"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PGPARTY1&repo=download-auth&theme=tokyonight&hide_border=true&bg_color=00000000" alt="download-auth" /></a>
+<a href="https://github.com/PGPARTY1/down-auth"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PGPARTY1&repo=down-auth&theme=tokyonight&hide_border=true&bg_color=00000000" alt="down-auth" /></a>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PGPARTY1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7F5AF0&icon_color=2CB67D" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGPARTY1&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7F5AF0" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PGPARTY1&bg_color=00000000&color=7F5AF0&line=2CB67D&point=F8F7FF&area=true&hide_border=true" width="96%" alt="Contribution activity" />
 
-<img src="https://streak-stats.demolab.com?user=PGPARTY1&theme=tokyonight&hide_border=true&background=00000000&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" alt="GitHub streak" />
-
-<sub>made with curiosity, caffeine, and a suspicious number of tabs</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=100&section=footer" width="100%" alt="footer art" />
+<sub>if it can be imagined, it can probably be prototyped</sub>
 
 </div>
